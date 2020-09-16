@@ -23,9 +23,9 @@
   
   o-o-o-o master (this is the branch we always branch our topics from 
   \
-   \     o-o-o-o-o-o-o-o-o  pu (proposed updates for next release) 
+   \     o-o-o-o-o-o-o-o-o  next (proposed updates for next release) 
     \                   /
-     \   o-o-o-o-o  next (last-release + stories that did not make it into release) 
+     \   o-o-o-o-o  pu (last-release + stories that did not make it into release) 
       \         /     /
        \ o-o-o-o-o-o-o story-1 
        
